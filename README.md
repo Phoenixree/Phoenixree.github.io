@@ -1,2 +1,2 @@
 # Personal blog
-phoenixree.github.io.
+https://phoenixree.github.io./
